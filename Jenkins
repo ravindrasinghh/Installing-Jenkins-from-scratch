@@ -46,6 +46,8 @@ If you are installing Jenkins on a remote Ubuntu server that is protected by a f
 
 $sudo ufw enable
 $sudo ufw allow 8080
+$sudo ufw allow 22
+
 
 ==========http://your_ip_or_domain:8080======
 
