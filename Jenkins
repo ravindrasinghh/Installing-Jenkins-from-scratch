@@ -62,8 +62,4 @@ SSH on the jenkins server and change the root password.
 Successfully Installed.
 
 
-#to start jenkins in different port number.
-cd /etc/default/jenkins
-find HTTP PORT=9090(according to u)
-service jenkins restart
-ufw allow 9090
+
